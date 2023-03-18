@@ -3,28 +3,28 @@
 ## Aim:
 To write a C# program to find whether the given string is a Palindrome or not.
 ## Algorithm:
-Step 1:
+### Step 1:
 Create a new Class named palindrom.
 
-Step 2:
+### Step 2:
 Declare three variables of string data type.
 
 1.input - Store the input from user.
 2.str - Convert user input to lower case and store it.
 3.pal - Reverse the string str and store it.
-Step 3:
+### Step 3:
 Get input from the user and store it. Then convert it to lower case.
 
-Step 4:
+### Step 4:
 Using for loop, iterate through the each character from the end to begining and add it to the new variable called pal
 
-Step 5:
+### Step 5:
 Using If-else statement check whether the input string & reversed string are same.
 
-Step 6:
+### Step 6:
 Print the input and reversed string along with the whether palindrom or not.
 
-Step 7:
+### Step 7:
 End of the Program.
 
 ## Program:
