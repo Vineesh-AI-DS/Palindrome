@@ -63,6 +63,7 @@ namespace Palindrome
 
 ## Output:
 ![npal](https://user-images.githubusercontent.com/93427254/226117533-0a8a90b6-73b9-4826-b1d5-45f9d462c0c3.png)
+
 ![pal](https://user-images.githubusercontent.com/93427254/226117534-4c10cb25-d27c-4a7a-a6f4-f948e59dfef6.png)
 
 
